@@ -1,0 +1,48 @@
+{"timestamp":"2025-12-29T11:46:44.178470Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2025-12-29T11:46:44.179870Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopstream_daily_pipeline.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-12-29T11:46:44.853796Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:44.854615Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:44.855079Z","level":"info","event":"Current task name:extract_postgres_to_s3","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:44.855560Z","level":"info","event":"Dag name:shopstream_daily_pipeline","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:44.856046Z","level":"info","event":"Extraction PostgreSQL vers S3 pour 2025-12-29","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:44.857453Z","level":"info","event":"Detected Docker runtime. Defaulting to host.docker.internal for Postgres host (override with DB_HOST env var). Using: host.docker.internal","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:44.858191Z","level":"info","event":"Running export command: /usr/python/bin/python3.12 -u /opt/airflow/scripts/export_to_s3.py --db-host host.docker.internal --db-port 5432 --db-user  --db-name  --date 2025-12-29","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:44.858632Z","level":"info","event":"Effective DB host: host.docker.internal, port: 5432, user: , db: , has_password: False","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.050914Z","level":"info","event":"export stdout:","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.051485Z","level":"info","event":"======================================================================","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.051806Z","level":"info","event":"EXPORT POSTGRESQL vers S3","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.052070Z","level":"info","event":"======================================================================","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.052429Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.052943Z","level":"info","event":"Date de partition : 2025-12-29","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.053252Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.053542Z","level":"info","event":"Export de la table 'users'...","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.053882Z","level":"info","event":"Connexion à PostgreSQL...","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.054223Z","level":"info","event":"Erreur de connexion PostgreSQL : connection to server at \"localhost\" (::1), port 5432 failed: Connection refused","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.054645Z","level":"info","event":"\tIs the server running on that host and accepting TCP/IP connections?","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.054941Z","level":"info","event":"connection to server at \"localhost\" (127.0.0.1), port 5432 failed: Connection refused","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.055204Z","level":"info","event":"\tIs the server running on that host and accepting TCP/IP connections?","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.055481Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.055795Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.051156Z","level":"error","event":"Task failed with exception","logger":"task","filename":"task_runner.py","lineno":1008,"error_detail":[{"exc_type":"Exception","exc_value":"Erreur lors de l'export : returncode=1\nstdout:\n======================================================================\nEXPORT POSTGRESQL vers S3\n======================================================================\n\nDate de partition : 2025-12-29\n\nExport de la table 'users'...\nConnexion à PostgreSQL...\nErreur de connexion PostgreSQL : connection to server at \"localhost\" (::1), port 5432 failed: Connection refused\n\tIs the server running on that host and accepting TCP/IP connections?\nconnection to server at \"localhost\" (127.0.0.1), port 5432 failed: Connection refused\n\tIs the server running on that host and accepting TCP/IP connections?\n\n\n\nstderr:\n<empty>","exc_notes":[],"syntax_error":null,"is_cause":false,"frames":[{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/execution_time/task_runner.py","lineno":934,"name":"run"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/execution_time/task_runner.py","lineno":1320,"name":"_execute_task"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/bases/operator.py","lineno":417,"name":"wrapper"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/standard/operators/python.py","lineno":215,"name":"execute"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/providers/standard/operators/python.py","lineno":238,"name":"execute_callable"},{"filename":"/home/airflow/.local/lib/python3.12/site-packages/airflow/sdk/execution_time/callback_runner.py","lineno":82,"name":"run"},{"filename":"/opt/airflow/dags/shopstream_daily_pipeline.py","lineno":170,"name":"extract_postgres_to_s3"}],"is_group":false,"exceptions":[]}]}
+{"timestamp":"2025-12-29T11:46:46.108121Z","level":"info","event":"Task instance in failure state","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.108651Z","level":"info","event":"Task start","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.109213Z","level":"info","event":"Task:<Task(PythonOperator): extract_postgres_to_s3>","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.109755Z","level":"info","event":"Failure caused by Erreur lors de l'export : returncode=1","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.110170Z","level":"info","event":"stdout:","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.110488Z","level":"info","event":"======================================================================","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.110821Z","level":"info","event":"EXPORT POSTGRESQL vers S3","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.111154Z","level":"info","event":"======================================================================","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.111546Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.111918Z","level":"info","event":"Date de partition : 2025-12-29","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.112277Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.112646Z","level":"info","event":"Export de la table 'users'...","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.113010Z","level":"info","event":"Connexion à PostgreSQL...","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.113233Z","level":"info","event":"Erreur de connexion PostgreSQL : connection to server at \"localhost\" (::1), port 5432 failed: Connection refused","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.113551Z","level":"info","event":"\tIs the server running on that host and accepting TCP/IP connections?","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.113842Z","level":"info","event":"connection to server at \"localhost\" (127.0.0.1), port 5432 failed: Connection refused","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.114329Z","level":"info","event":"\tIs the server running on that host and accepting TCP/IP connections?","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.114672Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.115067Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.115582Z","level":"info","event":"","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.115934Z","level":"info","event":"stderr:","logger":"task.stdout"}
+{"timestamp":"2025-12-29T11:46:46.116258Z","level":"info","event":"<empty>","logger":"task.stdout"}
