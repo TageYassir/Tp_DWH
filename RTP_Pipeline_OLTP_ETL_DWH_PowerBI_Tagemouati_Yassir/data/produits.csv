@@ -1,0 +1,501 @@
+id_produit,nom_produit,categorie,prix_unitaire
+1,MacBook Pro Ultra,Ordinateurs,100.63
+2,MacBook Pro Standard,Ordinateurs,778.44
+3,MacBook Pro Ultra,Ordinateurs,349.86
+4,MacBook Pro Standard,Ordinateurs,1669.86
+5,Lenovo ThinkPad Standard,Ordinateurs,1275.3
+6,HP Pavilion Lite,Ordinateurs,1333.11
+7,HP Pavilion Pro,Ordinateurs,1329.54
+8,Lenovo ThinkPad Ultra,Ordinateurs,1897.47
+9,Asus VivoBook Plus,Ordinateurs,462.17
+10,MacBook Pro Ultra,Ordinateurs,680.18
+11,MacBook Pro Pro,Ordinateurs,1116.95
+12,Asus VivoBook Standard,Ordinateurs,230.47
+13,HP Pavilion Plus,Ordinateurs,518.16
+14,Lenovo ThinkPad Pro,Ordinateurs,90.0
+15,Dell XPS Plus,Ordinateurs,807.58
+16,Lenovo ThinkPad Ultra,Ordinateurs,1311.98
+17,Dell XPS Pro,Ordinateurs,632.17
+18,Lenovo ThinkPad Ultra,Ordinateurs,1812.28
+19,Asus VivoBook Plus,Ordinateurs,750.14
+20,MacBook Pro Ultra,Ordinateurs,1049.67
+21,Lenovo ThinkPad Standard,Ordinateurs,1776.56
+22,Lenovo ThinkPad Ultra,Ordinateurs,1147.96
+23,Lenovo ThinkPad Pro,Ordinateurs,1525.16
+24,HP Pavilion Lite,Ordinateurs,413.39
+25,Lenovo ThinkPad Pro,Ordinateurs,128.85
+26,HP Pavilion Standard,Ordinateurs,1369.06
+27,Dell XPS Standard,Ordinateurs,1078.19
+28,Asus VivoBook Pro,Ordinateurs,616.87
+29,Lenovo ThinkPad Pro,Ordinateurs,1819.06
+30,Lenovo ThinkPad Ultra,Ordinateurs,339.78
+31,Dell XPS Ultra,Ordinateurs,1691.0
+32,Asus VivoBook Standard,Ordinateurs,626.19
+33,MacBook Pro Lite,Ordinateurs,199.24
+34,MacBook Pro Lite,Ordinateurs,259.88
+35,Lenovo ThinkPad Standard,Ordinateurs,234.24
+36,Asus VivoBook Ultra,Ordinateurs,743.14
+37,Asus VivoBook Pro,Ordinateurs,1548.86
+38,MacBook Pro Pro,Ordinateurs,1494.01
+39,Lenovo ThinkPad Plus,Ordinateurs,1583.05
+40,Lenovo ThinkPad Pro,Ordinateurs,212.42
+41,HP Pavilion Ultra,Ordinateurs,1195.06
+42,Lenovo ThinkPad Standard,Ordinateurs,1266.43
+43,HP Pavilion Ultra,Ordinateurs,1935.1
+44,Dell XPS Plus,Ordinateurs,410.92
+45,Asus VivoBook Ultra,Ordinateurs,1749.65
+46,MacBook Pro Standard,Ordinateurs,1092.03
+47,MacBook Pro Standard,Ordinateurs,277.52
+48,Dell XPS Standard,Ordinateurs,947.32
+49,Lenovo ThinkPad Lite,Ordinateurs,1465.53
+50,HP Pavilion Lite,Ordinateurs,1635.61
+51,Asus VivoBook Ultra,Ordinateurs,1396.79
+52,Lenovo ThinkPad Ultra,Ordinateurs,220.89
+53,Dell XPS Pro,Ordinateurs,422.06
+54,MacBook Pro Plus,Ordinateurs,1725.07
+55,Dell XPS Standard,Ordinateurs,1314.82
+56,Dell XPS Standard,Ordinateurs,1692.07
+57,Asus VivoBook Plus,Ordinateurs,217.88
+58,Lenovo ThinkPad Plus,Ordinateurs,974.28
+59,MacBook Pro Pro,Ordinateurs,373.91
+60,Dell XPS Standard,Ordinateurs,1929.54
+61,Lenovo ThinkPad Pro,Ordinateurs,1726.6
+62,Asus VivoBook Plus,Ordinateurs,442.61
+63,Asus VivoBook Standard,Ordinateurs,149.3
+64,MacBook Pro Pro,Ordinateurs,1279.3
+65,Lenovo ThinkPad Standard,Ordinateurs,1704.8
+66,Asus VivoBook Lite,Ordinateurs,1475.6
+67,HP Pavilion Pro,Ordinateurs,1000.62
+68,Lenovo ThinkPad Lite,Ordinateurs,1202.53
+69,Asus VivoBook Standard,Ordinateurs,502.22
+70,MacBook Pro Lite,Ordinateurs,87.09
+71,Asus VivoBook Ultra,Ordinateurs,1128.85
+72,HP Pavilion Standard,Ordinateurs,1783.82
+73,MacBook Pro Standard,Ordinateurs,1264.26
+74,HP Pavilion Standard,Ordinateurs,1410.15
+75,MacBook Pro Plus,Ordinateurs,611.62
+76,Dell XPS Standard,Ordinateurs,720.5
+77,Dell XPS Lite,Ordinateurs,478.42
+78,HP Pavilion Lite,Ordinateurs,1714.23
+79,Lenovo ThinkPad Plus,Ordinateurs,1772.19
+80,Lenovo ThinkPad Standard,Ordinateurs,1674.51
+81,HP Pavilion Standard,Ordinateurs,1609.52
+82,Dell XPS Lite,Ordinateurs,454.06
+83,MacBook Pro Standard,Ordinateurs,301.74
+84,Dell XPS Plus,Ordinateurs,1231.21
+85,MacBook Pro Standard,Ordinateurs,1888.96
+86,Lenovo ThinkPad Ultra,Ordinateurs,507.7
+87,Asus VivoBook Pro,Ordinateurs,1998.56
+88,HP Pavilion Ultra,Ordinateurs,746.24
+89,Dell XPS Plus,Ordinateurs,1664.5
+90,Asus VivoBook Pro,Ordinateurs,1623.29
+91,HP Pavilion Standard,Ordinateurs,272.24
+92,Dell XPS Pro,Ordinateurs,1145.86
+93,Lenovo ThinkPad Ultra,Ordinateurs,1987.64
+94,HP Pavilion Pro,Ordinateurs,1551.69
+95,Asus VivoBook Ultra,Ordinateurs,1797.82
+96,Asus VivoBook Lite,Ordinateurs,1355.5
+97,MacBook Pro Standard,Ordinateurs,1608.02
+98,MacBook Pro Pro,Ordinateurs,1574.22
+99,Asus VivoBook Pro,Ordinateurs,1656.04
+100,MacBook Pro Lite,Ordinateurs,255.55
+101,iPhone 14 Plus,Téléphones,1826.42
+102,Samsung Galaxy S23 Ultra,Téléphones,1430.92
+103,Xiaomi 13 Standard,Téléphones,1478.48
+104,iPhone 14 Plus,Téléphones,1311.83
+105,Google Pixel 7 Plus,Téléphones,289.82
+106,Samsung Galaxy S23 Standard,Téléphones,1940.79
+107,iPhone 14 Plus,Téléphones,1677.89
+108,OnePlus 11 Ultra,Téléphones,609.18
+109,Samsung Galaxy S23 Pro,Téléphones,568.73
+110,OnePlus 11 Ultra,Téléphones,1277.41
+111,Samsung Galaxy S23 Plus,Téléphones,1518.75
+112,Xiaomi 13 Standard,Téléphones,1585.07
+113,Samsung Galaxy S23 Standard,Téléphones,856.15
+114,OnePlus 11 Standard,Téléphones,1906.09
+115,Xiaomi 13 Ultra,Téléphones,1890.29
+116,OnePlus 11 Plus,Téléphones,1551.8
+117,Xiaomi 13 Pro,Téléphones,215.32
+118,Google Pixel 7 Standard,Téléphones,1964.79
+119,Samsung Galaxy S23 Standard,Téléphones,169.86
+120,iPhone 14 Plus,Téléphones,1809.9
+121,iPhone 14 Lite,Téléphones,1946.69
+122,OnePlus 11 Standard,Téléphones,1777.28
+123,Xiaomi 13 Ultra,Téléphones,1457.02
+124,Google Pixel 7 Ultra,Téléphones,65.41
+125,Google Pixel 7 Lite,Téléphones,1240.28
+126,Samsung Galaxy S23 Standard,Téléphones,920.07
+127,Samsung Galaxy S23 Lite,Téléphones,1267.5
+128,Xiaomi 13 Standard,Téléphones,1410.07
+129,OnePlus 11 Plus,Téléphones,1767.9
+130,iPhone 14 Pro,Téléphones,1098.0
+131,OnePlus 11 Plus,Téléphones,1064.92
+132,Xiaomi 13 Ultra,Téléphones,466.78
+133,Xiaomi 13 Lite,Téléphones,658.89
+134,Google Pixel 7 Plus,Téléphones,95.67
+135,Xiaomi 13 Lite,Téléphones,554.45
+136,Google Pixel 7 Standard,Téléphones,1974.56
+137,iPhone 14 Pro,Téléphones,1691.09
+138,Google Pixel 7 Lite,Téléphones,741.22
+139,iPhone 14 Pro,Téléphones,925.04
+140,Xiaomi 13 Pro,Téléphones,933.64
+141,Samsung Galaxy S23 Lite,Téléphones,1152.91
+142,Xiaomi 13 Lite,Téléphones,505.98
+143,Google Pixel 7 Ultra,Téléphones,1350.5
+144,Xiaomi 13 Plus,Téléphones,1442.98
+145,Xiaomi 13 Plus,Téléphones,255.19
+146,Xiaomi 13 Lite,Téléphones,425.48
+147,Google Pixel 7 Standard,Téléphones,241.08
+148,OnePlus 11 Standard,Téléphones,209.8
+149,iPhone 14 Standard,Téléphones,1782.59
+150,OnePlus 11 Plus,Téléphones,920.02
+151,Google Pixel 7 Lite,Téléphones,835.37
+152,Xiaomi 13 Lite,Téléphones,1568.71
+153,Google Pixel 7 Lite,Téléphones,1022.71
+154,OnePlus 11 Standard,Téléphones,1393.58
+155,OnePlus 11 Standard,Téléphones,1656.43
+156,Samsung Galaxy S23 Lite,Téléphones,297.89
+157,OnePlus 11 Plus,Téléphones,1937.66
+158,Xiaomi 13 Lite,Téléphones,280.21
+159,Samsung Galaxy S23 Standard,Téléphones,973.04
+160,Samsung Galaxy S23 Lite,Téléphones,770.2
+161,iPhone 14 Lite,Téléphones,1712.02
+162,iPhone 14 Pro,Téléphones,770.69
+163,Google Pixel 7 Pro,Téléphones,1069.42
+164,iPhone 14 Ultra,Téléphones,644.6
+165,Google Pixel 7 Ultra,Téléphones,623.26
+166,iPhone 14 Plus,Téléphones,327.17
+167,Xiaomi 13 Standard,Téléphones,144.87
+168,Google Pixel 7 Ultra,Téléphones,470.38
+169,OnePlus 11 Pro,Téléphones,288.54
+170,Google Pixel 7 Pro,Téléphones,1747.33
+171,OnePlus 11 Standard,Téléphones,1167.47
+172,Xiaomi 13 Standard,Téléphones,1805.56
+173,OnePlus 11 Standard,Téléphones,1677.2
+174,Xiaomi 13 Plus,Téléphones,1535.8
+175,Xiaomi 13 Standard,Téléphones,1535.27
+176,OnePlus 11 Plus,Téléphones,1739.37
+177,Google Pixel 7 Pro,Téléphones,1609.63
+178,Xiaomi 13 Standard,Téléphones,805.11
+179,OnePlus 11 Ultra,Téléphones,1104.94
+180,OnePlus 11 Ultra,Téléphones,1309.54
+181,Samsung Galaxy S23 Pro,Téléphones,1165.39
+182,Google Pixel 7 Lite,Téléphones,1308.06
+183,Xiaomi 13 Pro,Téléphones,425.23
+184,Xiaomi 13 Lite,Téléphones,1174.87
+185,iPhone 14 Lite,Téléphones,1067.42
+186,OnePlus 11 Lite,Téléphones,1798.89
+187,iPhone 14 Lite,Téléphones,400.5
+188,iPhone 14 Ultra,Téléphones,1584.18
+189,Samsung Galaxy S23 Lite,Téléphones,916.25
+190,Xiaomi 13 Lite,Téléphones,674.84
+191,Xiaomi 13 Pro,Téléphones,1008.37
+192,iPhone 14 Ultra,Téléphones,902.18
+193,OnePlus 11 Pro,Téléphones,1726.31
+194,Google Pixel 7 Standard,Téléphones,551.5
+195,iPhone 14 Pro,Téléphones,1106.47
+196,Google Pixel 7 Plus,Téléphones,406.2
+197,iPhone 14 Plus,Téléphones,648.25
+198,OnePlus 11 Plus,Téléphones,164.88
+199,Google Pixel 7 Plus,Téléphones,102.98
+200,iPhone 14 Ultra,Téléphones,810.38
+201,Microsoft Surface Plus,Tablettes,855.0
+202,Microsoft Surface Ultra,Tablettes,782.25
+203,iPad Pro Pro,Tablettes,444.99
+204,Huawei MatePad Lite,Tablettes,511.16
+205,Huawei MatePad Lite,Tablettes,800.84
+206,iPad Pro Ultra,Tablettes,168.23
+207,Lenovo Tab Lite,Tablettes,843.8
+208,Lenovo Tab Pro,Tablettes,844.61
+209,Samsung Galaxy Tab Pro,Tablettes,574.86
+210,Huawei MatePad Pro,Tablettes,530.32
+211,Huawei MatePad Plus,Tablettes,644.0
+212,Lenovo Tab Standard,Tablettes,213.62
+213,Huawei MatePad Plus,Tablettes,1576.62
+214,Samsung Galaxy Tab Ultra,Tablettes,1103.86
+215,Samsung Galaxy Tab Plus,Tablettes,1098.19
+216,Lenovo Tab Lite,Tablettes,930.9
+217,iPad Pro Standard,Tablettes,1924.17
+218,Huawei MatePad Ultra,Tablettes,1323.46
+219,Samsung Galaxy Tab Pro,Tablettes,167.34
+220,Lenovo Tab Ultra,Tablettes,1215.84
+221,Lenovo Tab Ultra,Tablettes,1692.76
+222,Samsung Galaxy Tab Lite,Tablettes,1689.33
+223,Microsoft Surface Pro,Tablettes,364.76
+224,Huawei MatePad Lite,Tablettes,186.37
+225,iPad Pro Standard,Tablettes,1411.94
+226,Samsung Galaxy Tab Lite,Tablettes,1997.7
+227,Lenovo Tab Plus,Tablettes,1240.37
+228,Microsoft Surface Ultra,Tablettes,1288.58
+229,Lenovo Tab Ultra,Tablettes,529.56
+230,Microsoft Surface Ultra,Tablettes,460.72
+231,Huawei MatePad Ultra,Tablettes,80.96
+232,Samsung Galaxy Tab Pro,Tablettes,1237.13
+233,iPad Pro Pro,Tablettes,1361.78
+234,Lenovo Tab Lite,Tablettes,1795.77
+235,Lenovo Tab Standard,Tablettes,1099.36
+236,iPad Pro Lite,Tablettes,110.35
+237,Lenovo Tab Pro,Tablettes,738.34
+238,Lenovo Tab Lite,Tablettes,748.03
+239,Samsung Galaxy Tab Pro,Tablettes,293.29
+240,Microsoft Surface Plus,Tablettes,916.93
+241,Samsung Galaxy Tab Pro,Tablettes,1528.92
+242,Microsoft Surface Plus,Tablettes,225.43
+243,Huawei MatePad Ultra,Tablettes,1626.41
+244,Samsung Galaxy Tab Plus,Tablettes,1961.23
+245,Microsoft Surface Pro,Tablettes,597.47
+246,Huawei MatePad Plus,Tablettes,63.91
+247,Lenovo Tab Pro,Tablettes,1746.34
+248,Huawei MatePad Lite,Tablettes,1013.32
+249,Huawei MatePad Plus,Tablettes,1336.68
+250,Huawei MatePad Lite,Tablettes,1152.02
+251,iPad Pro Lite,Tablettes,300.08
+252,iPad Pro Plus,Tablettes,556.27
+253,Huawei MatePad Plus,Tablettes,1767.96
+254,Microsoft Surface Plus,Tablettes,1702.95
+255,iPad Pro Lite,Tablettes,1248.19
+256,Huawei MatePad Standard,Tablettes,53.81
+257,Lenovo Tab Pro,Tablettes,1715.03
+258,Microsoft Surface Standard,Tablettes,1696.47
+259,Lenovo Tab Ultra,Tablettes,287.35
+260,Huawei MatePad Standard,Tablettes,1016.37
+261,Huawei MatePad Pro,Tablettes,1773.41
+262,Samsung Galaxy Tab Pro,Tablettes,591.97
+263,Lenovo Tab Lite,Tablettes,925.28
+264,iPad Pro Standard,Tablettes,429.49
+265,iPad Pro Lite,Tablettes,1624.96
+266,Samsung Galaxy Tab Standard,Tablettes,1917.66
+267,Samsung Galaxy Tab Plus,Tablettes,370.74
+268,Microsoft Surface Pro,Tablettes,1270.69
+269,iPad Pro Pro,Tablettes,985.93
+270,iPad Pro Lite,Tablettes,1604.58
+271,Microsoft Surface Ultra,Tablettes,531.95
+272,Lenovo Tab Plus,Tablettes,1919.67
+273,iPad Pro Ultra,Tablettes,1063.37
+274,Samsung Galaxy Tab Pro,Tablettes,1562.71
+275,Huawei MatePad Standard,Tablettes,1539.99
+276,Lenovo Tab Lite,Tablettes,293.41
+277,iPad Pro Pro,Tablettes,785.92
+278,iPad Pro Plus,Tablettes,170.9
+279,Lenovo Tab Pro,Tablettes,637.87
+280,Lenovo Tab Pro,Tablettes,248.56
+281,iPad Pro Lite,Tablettes,151.8
+282,Lenovo Tab Standard,Tablettes,236.87
+283,Lenovo Tab Plus,Tablettes,1735.94
+284,Huawei MatePad Pro,Tablettes,934.15
+285,Lenovo Tab Standard,Tablettes,1765.88
+286,Huawei MatePad Pro,Tablettes,712.25
+287,iPad Pro Standard,Tablettes,1058.57
+288,Huawei MatePad Plus,Tablettes,260.61
+289,iPad Pro Lite,Tablettes,1440.93
+290,Huawei MatePad Plus,Tablettes,1813.52
+291,Samsung Galaxy Tab Lite,Tablettes,549.76
+292,Lenovo Tab Standard,Tablettes,1463.01
+293,Lenovo Tab Plus,Tablettes,524.15
+294,iPad Pro Pro,Tablettes,298.98
+295,Huawei MatePad Standard,Tablettes,1050.6
+296,Microsoft Surface Ultra,Tablettes,1188.15
+297,Huawei MatePad Plus,Tablettes,337.45
+298,Microsoft Surface Lite,Tablettes,718.66
+299,Microsoft Surface Pro,Tablettes,1059.48
+300,Samsung Galaxy Tab Pro,Tablettes,512.91
+301,Hub USB-C Pro,Accessoires,873.02
+302,Clavier mécanique Plus,Accessoires,1299.08
+303,Clavier mécanique Pro,Accessoires,716.03
+304,Webcam HD Standard,Accessoires,1219.54
+305,Casque Bose Lite,Accessoires,1153.89
+306,Casque Bose Lite,Accessoires,634.28
+307,Casque Bose Plus,Accessoires,254.45
+308,Souris Logitech Standard,Accessoires,477.84
+309,Souris Logitech Plus,Accessoires,1401.78
+310,Webcam HD Lite,Accessoires,465.62
+311,Webcam HD Ultra,Accessoires,1624.18
+312,Webcam HD Plus,Accessoires,830.61
+313,Souris Logitech Ultra,Accessoires,69.29
+314,Casque Bose Pro,Accessoires,1131.65
+315,Clavier mécanique Ultra,Accessoires,908.8
+316,Hub USB-C Ultra,Accessoires,135.61
+317,Souris Logitech Plus,Accessoires,435.76
+318,Clavier mécanique Plus,Accessoires,1776.5
+319,Clavier mécanique Ultra,Accessoires,1702.69
+320,Clavier mécanique Plus,Accessoires,432.18
+321,Clavier mécanique Ultra,Accessoires,1825.77
+322,Souris Logitech Plus,Accessoires,788.9
+323,Souris Logitech Ultra,Accessoires,1875.42
+324,Casque Bose Standard,Accessoires,518.29
+325,Casque Bose Plus,Accessoires,1885.27
+326,Hub USB-C Standard,Accessoires,1762.86
+327,Souris Logitech Pro,Accessoires,331.64
+328,Clavier mécanique Plus,Accessoires,423.78
+329,Webcam HD Ultra,Accessoires,670.01
+330,Webcam HD Plus,Accessoires,1845.98
+331,Hub USB-C Lite,Accessoires,418.75
+332,Hub USB-C Ultra,Accessoires,1589.7
+333,Casque Bose Plus,Accessoires,153.86
+334,Casque Bose Plus,Accessoires,1710.43
+335,Hub USB-C Standard,Accessoires,458.01
+336,Souris Logitech Standard,Accessoires,1592.44
+337,Hub USB-C Pro,Accessoires,376.5
+338,Webcam HD Lite,Accessoires,779.82
+339,Hub USB-C Standard,Accessoires,399.05
+340,Casque Bose Lite,Accessoires,1404.29
+341,Webcam HD Standard,Accessoires,573.25
+342,Webcam HD Lite,Accessoires,1316.99
+343,Clavier mécanique Plus,Accessoires,1795.03
+344,Webcam HD Plus,Accessoires,822.0
+345,Casque Bose Standard,Accessoires,1782.98
+346,Hub USB-C Plus,Accessoires,1874.22
+347,Casque Bose Ultra,Accessoires,1123.58
+348,Clavier mécanique Pro,Accessoires,625.34
+349,Hub USB-C Ultra,Accessoires,498.85
+350,Souris Logitech Standard,Accessoires,1048.91
+351,Casque Bose Standard,Accessoires,929.74
+352,Webcam HD Standard,Accessoires,766.65
+353,Webcam HD Ultra,Accessoires,582.39
+354,Souris Logitech Plus,Accessoires,911.29
+355,Casque Bose Pro,Accessoires,750.23
+356,Souris Logitech Ultra,Accessoires,1693.08
+357,Hub USB-C Lite,Accessoires,1305.13
+358,Casque Bose Plus,Accessoires,241.9
+359,Souris Logitech Ultra,Accessoires,124.65
+360,Clavier mécanique Ultra,Accessoires,433.46
+361,Casque Bose Ultra,Accessoires,640.3
+362,Casque Bose Plus,Accessoires,1426.0
+363,Clavier mécanique Lite,Accessoires,1829.15
+364,Souris Logitech Ultra,Accessoires,599.6
+365,Casque Bose Standard,Accessoires,1894.34
+366,Hub USB-C Pro,Accessoires,970.41
+367,Hub USB-C Plus,Accessoires,1737.66
+368,Clavier mécanique Plus,Accessoires,1460.5
+369,Clavier mécanique Standard,Accessoires,505.76
+370,Hub USB-C Lite,Accessoires,1527.36
+371,Webcam HD Ultra,Accessoires,1594.23
+372,Casque Bose Plus,Accessoires,886.15
+373,Webcam HD Plus,Accessoires,905.43
+374,Hub USB-C Pro,Accessoires,780.67
+375,Hub USB-C Plus,Accessoires,645.87
+376,Souris Logitech Standard,Accessoires,1630.28
+377,Casque Bose Ultra,Accessoires,489.71
+378,Webcam HD Standard,Accessoires,1537.54
+379,Hub USB-C Ultra,Accessoires,685.86
+380,Souris Logitech Lite,Accessoires,1581.45
+381,Clavier mécanique Plus,Accessoires,1955.62
+382,Casque Bose Lite,Accessoires,1278.19
+383,Hub USB-C Lite,Accessoires,1169.06
+384,Webcam HD Standard,Accessoires,448.2
+385,Webcam HD Pro,Accessoires,1092.26
+386,Clavier mécanique Standard,Accessoires,261.84
+387,Hub USB-C Standard,Accessoires,1296.06
+388,Casque Bose Pro,Accessoires,384.28
+389,Hub USB-C Plus,Accessoires,112.52
+390,Hub USB-C Standard,Accessoires,102.34
+391,Clavier mécanique Pro,Accessoires,1827.12
+392,Webcam HD Ultra,Accessoires,451.49
+393,Casque Bose Lite,Accessoires,186.46
+394,Souris Logitech Ultra,Accessoires,1061.14
+395,Clavier mécanique Ultra,Accessoires,1726.43
+396,Webcam HD Standard,Accessoires,356.22
+397,Souris Logitech Plus,Accessoires,1096.08
+398,Webcam HD Pro,Accessoires,808.54
+399,Clavier mécanique Plus,Accessoires,1747.38
+400,Casque Bose Standard,Accessoires,1644.9
+401,Fitbit Sense Plus,Montres,1227.23
+402,Garmin Forerunner Lite,Montres,445.8
+403,Fitbit Sense Ultra,Montres,443.32
+404,Samsung Galaxy Watch Standard,Montres,174.74
+405,Fitbit Sense Lite,Montres,1624.75
+406,Huawei Watch Ultra,Montres,1825.09
+407,Fitbit Sense Standard,Montres,952.26
+408,Apple Watch Pro,Montres,611.43
+409,Fitbit Sense Ultra,Montres,1415.62
+410,Garmin Forerunner Standard,Montres,1245.4
+411,Samsung Galaxy Watch Standard,Montres,535.81
+412,Huawei Watch Standard,Montres,942.76
+413,Samsung Galaxy Watch Lite,Montres,236.29
+414,Apple Watch Plus,Montres,1776.81
+415,Samsung Galaxy Watch Ultra,Montres,1770.98
+416,Huawei Watch Ultra,Montres,1349.98
+417,Apple Watch Plus,Montres,1822.04
+418,Fitbit Sense Lite,Montres,286.4
+419,Garmin Forerunner Pro,Montres,1523.02
+420,Huawei Watch Ultra,Montres,849.69
+421,Samsung Galaxy Watch Ultra,Montres,454.38
+422,Apple Watch Standard,Montres,102.1
+423,Fitbit Sense Standard,Montres,720.13
+424,Fitbit Sense Plus,Montres,823.51
+425,Apple Watch Ultra,Montres,273.63
+426,Samsung Galaxy Watch Ultra,Montres,1357.08
+427,Fitbit Sense Standard,Montres,949.65
+428,Apple Watch Lite,Montres,1331.19
+429,Fitbit Sense Plus,Montres,968.04
+430,Garmin Forerunner Plus,Montres,382.65
+431,Apple Watch Lite,Montres,246.0
+432,Garmin Forerunner Pro,Montres,1092.57
+433,Fitbit Sense Plus,Montres,201.29
+434,Apple Watch Ultra,Montres,349.32
+435,Garmin Forerunner Plus,Montres,472.51
+436,Apple Watch Lite,Montres,471.52
+437,Apple Watch Lite,Montres,1299.97
+438,Apple Watch Standard,Montres,1396.18
+439,Fitbit Sense Pro,Montres,1216.5
+440,Apple Watch Standard,Montres,1545.87
+441,Samsung Galaxy Watch Ultra,Montres,1822.07
+442,Samsung Galaxy Watch Pro,Montres,81.27
+443,Apple Watch Pro,Montres,707.38
+444,Samsung Galaxy Watch Pro,Montres,480.11
+445,Apple Watch Plus,Montres,1461.82
+446,Apple Watch Standard,Montres,1049.38
+447,Garmin Forerunner Ultra,Montres,1146.01
+448,Samsung Galaxy Watch Lite,Montres,453.88
+449,Huawei Watch Standard,Montres,1880.9
+450,Apple Watch Plus,Montres,466.87
+451,Garmin Forerunner Ultra,Montres,388.56
+452,Fitbit Sense Ultra,Montres,73.36
+453,Samsung Galaxy Watch Standard,Montres,479.19
+454,Garmin Forerunner Lite,Montres,769.51
+455,Apple Watch Plus,Montres,851.64
+456,Huawei Watch Standard,Montres,1967.05
+457,Apple Watch Lite,Montres,1592.96
+458,Huawei Watch Plus,Montres,541.28
+459,Apple Watch Lite,Montres,682.49
+460,Fitbit Sense Plus,Montres,697.49
+461,Garmin Forerunner Standard,Montres,181.65
+462,Apple Watch Lite,Montres,1828.6
+463,Fitbit Sense Standard,Montres,1046.5
+464,Samsung Galaxy Watch Lite,Montres,1195.56
+465,Apple Watch Plus,Montres,91.37
+466,Apple Watch Ultra,Montres,510.97
+467,Fitbit Sense Plus,Montres,1258.54
+468,Apple Watch Plus,Montres,780.32
+469,Garmin Forerunner Plus,Montres,345.76
+470,Samsung Galaxy Watch Pro,Montres,514.22
+471,Huawei Watch Standard,Montres,1491.55
+472,Garmin Forerunner Plus,Montres,592.35
+473,Apple Watch Lite,Montres,1593.97
+474,Fitbit Sense Ultra,Montres,1513.57
+475,Samsung Galaxy Watch Ultra,Montres,718.32
+476,Samsung Galaxy Watch Lite,Montres,155.44
+477,Samsung Galaxy Watch Plus,Montres,1235.72
+478,Fitbit Sense Lite,Montres,677.19
+479,Fitbit Sense Pro,Montres,176.0
+480,Fitbit Sense Pro,Montres,1909.64
+481,Apple Watch Plus,Montres,1879.64
+482,Samsung Galaxy Watch Pro,Montres,388.67
+483,Huawei Watch Plus,Montres,510.8
+484,Apple Watch Standard,Montres,1463.73
+485,Garmin Forerunner Plus,Montres,1457.26
+486,Samsung Galaxy Watch Standard,Montres,394.05
+487,Samsung Galaxy Watch Ultra,Montres,606.44
+488,Fitbit Sense Plus,Montres,580.13
+489,Fitbit Sense Pro,Montres,1904.48
+490,Garmin Forerunner Standard,Montres,786.55
+491,Fitbit Sense Standard,Montres,874.26
+492,Huawei Watch Standard,Montres,1532.63
+493,Fitbit Sense Pro,Montres,1535.76
+494,Fitbit Sense Pro,Montres,1529.77
+495,Garmin Forerunner Lite,Montres,1097.54
+496,Huawei Watch Plus,Montres,551.72
+497,Fitbit Sense Ultra,Montres,934.53
+498,Fitbit Sense Lite,Montres,1231.75
+499,Apple Watch Ultra,Montres,316.48
+500,Fitbit Sense Plus,Montres,351.71
